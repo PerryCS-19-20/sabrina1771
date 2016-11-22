@@ -1,7 +1,15 @@
 
-body {
-    background-color: lavender;
+<style>
+.center {
     text-align: center;
     font-size: 40px;
     border: 3px solid white;
 }
+body {
+    background-color: lavender;
+} 
+.img {
+    <img src="WhiteRose.jpg" alt="WhiteRose" width="300" height="200">
+}
+
+
