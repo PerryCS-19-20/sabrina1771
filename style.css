@@ -1,4 +1,7 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+   
 <style>
 .center {
     text-align: center;
@@ -11,5 +14,11 @@ body {
 .img {
     <img src="WhiteRose.jpg" alt="WhiteRose" width="300" height="200">
 }
-
-
+</style>
+</head>
+<body>
+    <div class="center">
+  <p>Sabrina's Website!</p>
+</div>
+</body>
+</html>
