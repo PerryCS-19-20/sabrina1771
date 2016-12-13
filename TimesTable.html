@@ -36,7 +36,7 @@ body {
             body.appendChild(timesTable);
         for(var i = 1; i < 11; i++) {
             var row = document.createElement("tr");
-            row.appendChild(row);
+            timesTable.appendChild(row);
             
             for(var j = 1; j < 11; j++) {
                 var column = document.createElement("td");
