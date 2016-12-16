@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-yellow;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+}
+</style>
+</head>
+<body>
+ <ul>
+                <li>
+                Menu 1
+                <ul>
+                <li><a href="https://perryma.tk/sabrina1771/bio.html">About Me</a></li>
+                <li><a href=https://perryma.tk/sabrina1771/tictactoe.html">TicTacToe Game</a>"</li>
+                <li><a href="https://perryma.tk/sabrina1771/todolist.html">To Do List</a>"</li>
+                </li>
+            </ul>
+                </li>
+                <li>Menu 3
+                    <ul>
+                <li><a href="https://perryma.tk/sabrina1771/chalkboard.html">Chalkboard</a></li>
+                <li><a href="https://perryma.tk/sabrina1771/Popup.html">Popup</a></li>
+                <li><a href="https://perryma.tk/sabrina1771/timesTable.html">Times Table</a></li>
+                    </ul>
+             </li>
+
+<p>A background color is added to the list instead of each link to create a full-width background color.</p>
+<p><b>Note:</b> overflow:hidden is added to the ul element to prevent li elements from going outside of the list.</p>
+
+</body>
+</html>
